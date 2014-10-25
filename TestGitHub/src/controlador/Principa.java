@@ -13,6 +13,7 @@ public class Principa {
 		saludo.diHola("Fernando");
 		saludo.diAdios();
 		saludo.diHastaLuego();
+		saludo.diHastaSiempre();
 
 	}
 

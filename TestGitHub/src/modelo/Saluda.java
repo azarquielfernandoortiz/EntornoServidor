@@ -14,5 +14,9 @@ public class Saluda {
 	public void diHastaLuego(){
 		System.out.println("Hasta luego...");
 	}
+	public void diHastaSiempre(){
+		System.out.println("Hasta Siempre...");
+		
+	}
 
 }

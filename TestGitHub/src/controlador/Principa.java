@@ -10,7 +10,7 @@ public class Principa {
 
 	public static void main(String[] args) {
 		Saluda saludo=new Saluda();
-		saludo.diHola();
+		saludo.diHola("Fernando");
 		saludo.diAdios();
 		
 

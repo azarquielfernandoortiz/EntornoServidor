@@ -11,5 +11,8 @@ public class Saluda {
 	public void diAdios(){
 		System.out.println("Adios, espero verte pronto...");
 	}
+	public void diHastaLuego(){
+		System.out.println("Hasta luego...");
+	}
 
 }

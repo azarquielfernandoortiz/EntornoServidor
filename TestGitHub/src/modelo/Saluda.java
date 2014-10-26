@@ -19,7 +19,7 @@ public class Saluda {
 		
 	}
 	public void diHastaNunca(){
-		System.out.println("Es la ultima vez que nos vemos...");
+		System.out.println("No nos volveremos a ver...");
 	}
 
 }

@@ -19,7 +19,7 @@ public class Saluda {
 		
 	}
 	public void diHastaNunca(){
-		System.out.println("No nos volveremos a ver...");
+		System.out.println("Quiero que sea una modificacion del mi amigo azarquielortiz");
 	}
 
 }

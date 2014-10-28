@@ -3,9 +3,9 @@ package controlador;
 import modelo.Saluda;
 import modelo.TablaMultiplicar;
 
-public class Principa {
+public class Principal {
 
-	public Principa() {
+	public Principal() {
 		// TODO Auto-generated constructor stub
 	}
 

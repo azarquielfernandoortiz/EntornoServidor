@@ -24,5 +24,8 @@ public class Saluda {
 	public void diComoVaTuSalud(){
 		System.out.println("Hola estas bien de salud");
 	}
+	public void diComoEstaLaFamilia(){
+		System.out.println("La familia que tall...");
+	}
 
 }

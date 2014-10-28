@@ -21,5 +21,8 @@ public class Saluda {
 	public void diHastaNunca(){
 		System.out.println("Quiero que sea una modificacion del mi amigo azarquielortiz");
 	}
+	public void diComoVaTuSalud(){
+		System.out.println("Hola estas bien de salud");
+	}
 
 }

@@ -17,6 +17,7 @@ public class Principal {
 		saludo.diHastaSiempre();
 		TablaMultiplicar tabla=new TablaMultiplicar();
 		tabla.tablaDel(5);
+		saludo.diComoVaTuSalud();
 
 	}
 

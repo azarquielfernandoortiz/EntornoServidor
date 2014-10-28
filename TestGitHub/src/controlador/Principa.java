@@ -1,6 +1,7 @@
 package controlador;
 
 import modelo.Saluda;
+import modelo.TablaMultiplicar;
 
 public class Principa {
 
@@ -14,6 +15,8 @@ public class Principa {
 		saludo.diAdios();
 		saludo.diHastaLuego();
 		saludo.diHastaSiempre();
+		TablaMultiplicar tabla=new TablaMultiplicar();
+		tabla.tablaDel(5);
 
 	}
 

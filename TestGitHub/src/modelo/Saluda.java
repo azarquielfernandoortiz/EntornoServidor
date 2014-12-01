@@ -11,15 +11,8 @@ public class Saluda {
 	public void diAdios(){
 		System.out.println("Adios, espero verte pronto...");
 	}
-	public void diHastaLuego(){
-		System.out.println("Hasta luego...");
-	}
-	public void diHastaSiempre(){
-		System.out.println("Hasta Siempre...");
-		
-	}
-	public void diHastaNunca(){
-		System.out.println("Quiero que sea una modificacion del mi amigo azarquielortiz");
-	}
+    public void diOtraVezPorAqui(){
+    	System.out.println("Hola, otra vez por aqui...");
+    }
 
 }

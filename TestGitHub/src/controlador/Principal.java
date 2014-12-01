@@ -13,10 +13,10 @@ public class Principal {
 		Saluda saludo=new Saluda();
 		saludo.diHola("Fernando");
 		saludo.diAdios();
-		saludo.diHastaLuego();
-		saludo.diHastaSiempre();
+		saludo.diOtraVezPorAqui();
 		TablaMultiplicar tabla=new TablaMultiplicar();
 		tabla.tablaDel(5);
+
 
 	}
 
